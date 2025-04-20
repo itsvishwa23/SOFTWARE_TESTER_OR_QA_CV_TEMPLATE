@@ -1,4 +1,3 @@
-Sure! Here's an updated version of your README file with clear, concise steps to **import and use the LaTeX template in Overleaf**:
 
 ---
 
