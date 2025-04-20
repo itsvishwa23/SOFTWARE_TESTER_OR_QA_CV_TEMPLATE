@@ -4,6 +4,8 @@
 This repository contains a professional and clean LaTeX CV/Resume template specifically designed for Software Testers and QA (Quality Assurance) professionals. Built for clarity and impact, it's ideal for showcasing your technical skills, tools, testing methodologies, and certifications in a structured and ATS-friendly layout.
 
 📄 Features:
+
+
 ✅ LaTeX-based, easy to customize and extend
 
 ✅ ATS-friendly structure
